@@ -1,0 +1,5 @@
+PyMuPDF
+langchain-ollama
+langchain-text-splitters
+langchain-chroma
+langchain-core
