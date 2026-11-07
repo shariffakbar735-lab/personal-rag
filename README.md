@@ -1,4 +1,4 @@
-# LLM AXIS — Local PDF RAG
+#  Local PDF RAG
 
 A simple Retrieval-Augmented Generation (RAG) application built with Python, LangChain, ChromaDB and Ollama. It allows users to ask questions about PDF documents using a locally running language model.
 
@@ -26,8 +26,8 @@ A simple Retrieval-Augmented Generation (RAG) application built with Python, Lan
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shariffakbar735-lab/llm-axis.git
-cd llm-axis
+git clone https://github.com/shariffakbar735-lab/personal-rag.git
+cd personal-rag
 ```
 
 ### 2. Create a virtual environment
